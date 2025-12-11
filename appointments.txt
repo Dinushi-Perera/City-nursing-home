@@ -1,0 +1,8 @@
+PatientID,PatientName,Category,Age,Address,Email,Contact,DoctorSpecialization,AppointmentDate,DoctorID,DoctorName
+P1,Amali Fernando,Emergency,40,Colombo,amali@gmail.com,+94771234567,General Medicine,2025-03-12,D1,Dr. Rajitha Silva
+P2,Kamal Perera,Emergency,50,Kandy,kamal@yahoo.com,+94772345678,Cardiologist,2025-03-20,D2,Dr. Nimal Jayawardena
+P3,Hashini Dissanayake,Pediatric,7,Galle,hdissa@gmail.com,+94763456789,Dentist,2025-03-05,D4,Dr. Kumara Weerasinghe
+P4,Dilani Wickramasinghe,Maternity,29,Negombo,dilani@gmail.com,+94754567890,General Medicine,2025-03-15,D1,Dr. Rajitha Silva
+P5,Nuwan Bandara,General,35,Batticaloa,nuwan.b@gmail.com,+94765678901,Dentist,2025-03-08,D4,Dr. Kumara Weerasinghe
+P6,Priyanthi Gunasekara,Emergency,62,Jaffna,priyanthi@gmail.com,+94776789012,Surgeon,2025-03-03,D5,Dr. Ishara Samarawickrama
+P7,Amasha Hansi,General,23,Awissawella,ama@gmail.com,0778787839,Dentist,2025-03-10,D4,Dr. Kumara Weerasinghe

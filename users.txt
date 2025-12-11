@@ -1,0 +1,7 @@
+userType,email,password
+Cashier,cashier@gmail.com,cashier123
+Manager,manager@gmail.com,manager123
+Doctor,doctor@gmail.com,doctor123
+Cashier,dk@gmail.com,dk
+Doctor,ds@gmail.com,ds
+Cashier,Cash@gmail.com,cash

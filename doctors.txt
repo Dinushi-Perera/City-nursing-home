@@ -1,0 +1,8 @@
+DoctorID,DoctorName,DoctorSpecialization,DoctorTelNo,DocEmail,Experience
+D1,Dr. Rajitha Silva,General Medicine,07701454769,raji@gmail.com,7
+D2,Dr. Nimal Jayawardena,Cardiologist,0701234455,nimal@gmil.com,6
+D3,Dr. Samanthi Gunawardena,Pediatrician,0789899234,samnthi@gmail.com,8
+D4,Dr. Kumara Weerasinghe,Dentist,0775656664,kumara@gamil.com,2
+D5,Dr. Ishara Samarawickrama,Surgeon,0756633231,ishara@gamil.com,6
+D6,Fathima Bathul,Psychiatrist,0778787777,fathima@gmail.com,2
+D8,Dinushi Perera,Dentist,0778899882,dinu@gmail.com,10
